@@ -5,9 +5,9 @@
 本リポジトリには技術評論社刊『[作ってわかる［入門］Streamlit](https://gihyo.jp/book/2025/978-4-297-14764-8)』（2025年2月）の正誤表を発見順で列挙します。
 
 
-#### pip requirements.txt
+### pip requirements.txt
 
-pp. ix, 268, （ダウンロードパッケージの）`Codes/requirements.txt`
+場所： pp. ix, 268, （ダウンロードパッケージの）`Codes/requirements.txt`
 
 誤: `$ pip install transformers["ja"]`
 
