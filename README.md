@@ -11,7 +11,7 @@
 
 誤: `$ pip install transformers["ja"]`
 
-正：`$ pip install transformers[ja]==4.51.3`
+正：`$ pip install transformers[ja]`
 
 - 角カッコの中の文字 `ja` の引用符は不要です。コンソール（`bash`等）での実行では影響はありませんが、`requirements.txt`にそのまま書くとエラーが上がります。
-- 本書は Tranformers version 4.51.3 でテストしています。2026年1月に導入された version 5 では動作しません。`requirements.txt` でバージョンを固定してください。
+
