@@ -19,7 +19,7 @@
 
 ### 7.6節 句読点の挿入（26-03-30）
 
-リスト7.3 `fill_mask.py` は Python 3.9～3.13 でなければ動作しません。`pip install transformers[ja]` で追加でインストールされる [sudachipy](https://pypi.org/project/SudachiPy/) の最新版 0.6.10 (2025-01-10) の wheel がそれ以外のバージョンではサポートされていないからです。
+リスト7.3 `fill_mask.py` は Python 3.9～3.13 でなければ動作しません。`pip install transformers[ja]` で追加でインストールされる [sudachipy](https://pypi.org/project/SudachiPy/#files) の最新版 0.6.10 (2025-01-10) の wheel がそれ以外のバージョンではサポートされていないからです。
 
 Streamlit Community Cloud でも同様です。デフォルトでは（現在）Python 3.14 が用いられるので、設定から 3.12 に変更します。
 
