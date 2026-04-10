@@ -1,6 +1,6 @@
 ## 『作ってわかる［入門］Streamlit 変更点
 
-> *Last updated: 2026-03-30
+> *Last updated: 2026-04-10
 
 本リポジトリには技術評論社刊『[作ってわかる［入門］Streamlit](https://gihyo.jp/book/2025/978-4-297-14764-8)』（2025年2月）の誤記訂正、ソフトウェアのバージョン変更に伴う注意事項などを示します。
 
@@ -10,6 +10,7 @@
 
 - Python 3.12
 - Transformers 4.51.3
+- Sudachipy 0.6.10
 
 
 ### pip requirements.txt (25-05-08, 26-03-28)
